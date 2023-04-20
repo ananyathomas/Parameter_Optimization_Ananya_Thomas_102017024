@@ -11,10 +11,8 @@ Sub Group : CSE 1
   
 [Dry Bean Dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) from UCI Library
 
-|||
-|:-----------------------:|:-------:|
-| Number of Instances:  | 13611 |
-| Number of Attributes: | 17    |
+- Number of Instances: 13611
+- Number of Attributes: 17   
 
 # Comparative Performance of Optimized SVM
 
